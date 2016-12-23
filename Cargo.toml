@@ -1,0 +1,6 @@
+[package]
+name = "crustOS"
+version = "0.1.0"
+authors = ["Mitchell Oleson <moleson21@berkeley.edu>"]
+
+[dependencies]
