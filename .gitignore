@@ -1,1 +1,3 @@
 target
+build
+qemu-2.12.0*
